@@ -4,6 +4,7 @@ package com.kdm.KodadProperties.dto;
 import com.kdm.KodadProperties.enums.PropertyCategory;
 import com.kdm.KodadProperties.enums.PropertyStatus;
 import com.kdm.KodadProperties.enums.PropertyType;
+import com.kdm.KodadProperties.model.PropertyOwner;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.Setter;
@@ -33,5 +34,7 @@ public class FullPropertyDetailsDto {
     private PropertyType propertyType;
 
     private List<String> allImgsPaths;
+
+    private PropertyOwner propertyOwner;
 
 }

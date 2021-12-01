@@ -44,6 +44,7 @@ public class UserServices {
                     .town(property.getTown())
                     .propertyType(property.getPropertyType())
                     .allImgsPaths(allImgsPaths)
+                    .propertyOwner(property.getPropertyOwner())
                     .build();
 
         return response;

@@ -30,7 +30,7 @@ public class AdminSecurityConfig extends WebSecurityConfigurerAdapter {
                 .antMatchers("/secured/**").hasAuthority("ADMIN")
                 .antMatchers("/user/get/**").permitAll()
                 .anyRequest()
-                .denyAll()
+                .permitAll()
                 .and()
                 .httpBasic()
                 .and()
