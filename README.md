@@ -35,3 +35,10 @@ A Real-estate web application backend
 
 ## REST-API documentation
 - http://localhost:8080/swagger-ui.html
+
+![gitKdd1](https://user-images.githubusercontent.com/63411924/155556649-8ad66958-890b-4522-a9e9-93eb89340835.png)
+![gitkdd2](https://user-images.githubusercontent.com/63411924/155556681-3eb70ead-604a-40a2-a799-aace94c9409f.png)
+![gitkdd3](https://user-images.githubusercontent.com/63411924/155556700-7fa364f6-bcec-4e6e-9409-838fd2cdac2d.png)
+![gitkdd4](https://user-images.githubusercontent.com/63411924/155556716-14ac6d5e-f9a4-42ee-8d9d-09f9c6c344c7.png)
+![gitkdd5](https://user-images.githubusercontent.com/63411924/155556751-49114a5f-7e51-4724-931f-dc19142e7246.png)
+
