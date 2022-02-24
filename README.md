@@ -42,7 +42,6 @@ A Real-estate web application backend
 
 - Property Table <br>
 ![gitkdd2](https://user-images.githubusercontent.com/63411924/155556681-3eb70ead-604a-40a2-a799-aace94c9409f.png)
-<br>
 ![gitkdd3](https://user-images.githubusercontent.com/63411924/155556700-7fa364f6-bcec-4e6e-9409-838fd2cdac2d.png)
 
 - Admin Table(Initially project was coded in a way that only admins can upload the property and owner should conatct admin to upload their property)<br>
