@@ -30,7 +30,7 @@ A Real-estate web application backend
 10 My-Sql was the database to store all information regarding properties and owners and etc info <br>
 
 ## Setup
->git clone https://github.com/umamahesh33/e-wallet-application.git
+>git clone https://github.com/umamahesh33/propertyRentalBackend.git
 - need to generate aws-keys for putting and getting objects from s3-bucket
 
 ## REST-API documentation
