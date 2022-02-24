@@ -34,4 +34,4 @@ A Real-estate web application backend
 - need to generate aws-keys for putting and getting objects from s3-bucket
 
 ## REST-API documentation
-
+- http://localhost:8080/swagger-ui.html
